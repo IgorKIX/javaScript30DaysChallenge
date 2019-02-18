@@ -5,3 +5,4 @@ The author of this course is Wes Bos. The idea of this "challenge" is to get to 
 
 ### Days:
 1. A simple durm kit that allows you to stimulate your creative beast and delve into your own creative music world :wink: (lesson of capturing keystrokes and handling audio files)
+2. A nice clock showing the current time. This feat was made possible by introducing changes to transformation properties and thanks to such methods as now.getHours!

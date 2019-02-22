@@ -9,3 +9,4 @@ The author of this course is Wes Bos. The idea of this "challenge" is to get to 
 3. This time, with the help of event listeners and css variables, we run two sliders and a color picker, which allows us to adjust the look and background of the photo.
 4. This time there were a few tasks to be completed, requiring knowledge of the basic table methods, like: filter, map, sort and reduce.
 5. Very efficient use of property transform along with the event listeners to create a spectacular-looking site.
+6. A page with a "search engine". Data downloaded using ajax and a search based on the filter method on the array

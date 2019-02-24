@@ -11,3 +11,4 @@ The author of this course is Wes Bos. The idea of this "challenge" is to get to 
 5. Very efficient use of property transform along with the event listeners to create a spectacular-looking site.
 6. A page with a "search engine". Data downloaded using ajax and a search based on the filter method on the array
 7. The next exercise with several array methods (some, every, find, findIndex) and two ways to remove one element from the array
+8. This time, using canvas, I create a white and clean surface waiting for creative use. The psychedelic effect is enhanced by continuously changing the color and size of the brush. I use methods such as: lineTo, beginPath, moveTo and stroke.

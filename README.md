@@ -15,8 +15,9 @@ The author of this course is Wes Bos. The idea of this "challenge" is to get to 
 9. In this exercise I'm getting familiar with ocuple console tricks using methods such as count, grouCollapsed, time, error, warning and assert. <a href="https://igorkix.github.io/javaScript30DaysChallenge/9 console tricks/index.html">Click here!</a>
 10. In this exercise, I write the simple method to implement the ability to select couple check boxes at once when the shift key is press down. <a href="https://igorkix.github.io/javaScript30DaysChallenge/10 checkbox & shift/index.html">Click here!</a>
 11. In this exercise, I'm Wes shows how to implement basic support for video player. There are implemented features such as progress bar that allows you to directly jump to a particular part of the movie, change the playback tempo and volume. * **
-12. In this very simple exercise, implementations of something like konami code are shown. Typing a secret password to the console will display a hidden message <a href="https://igorkix.github.io/javaScript30DaysChallenge/12 Key sequence detection/index.html">Click here!</a>
-13. This exercise focuses on showing how to implement image slides during the page scrolling by the user <a href="https://igorkix.github.io/javaScript30DaysChallenge/13 Scrolling with pictures/index.html">Click here!</a>
+12. In this very simple exercise, implementations of something like konami code are shown. Typing a secret password to the console will display a hidden message. <a href="https://igorkix.github.io/javaScript30DaysChallenge/12 Key sequence detection/index.html">Click here!</a>
+13. This exercise focuses on showing how to implement image slides during the page scrolling by the user. <a href="https://igorkix.github.io/javaScript30DaysChallenge/13 Scrolling with pictures/index.html">Click here!</a>
+14. This exercise shows the difference between reference and copy of array and object, and shows couple ways of copying them. <a href="https://igorkix.github.io/javaScript30DaysChallenge/14 Copy of array and object/index.html">Click here!</a>
 
 
 

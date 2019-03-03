@@ -18,6 +18,7 @@ The author of this course is Wes Bos. The idea of this "challenge" is to get to 
 12. In this very simple exercise, implementations of something like konami code are shown. Typing a secret password to the console will display a hidden message. <a href="https://igorkix.github.io/javaScript30DaysChallenge/12 Key sequence detection/index.html">Click here!</a>
 13. This exercise focuses on showing how to implement image slides during the page scrolling by the user. <a href="https://igorkix.github.io/javaScript30DaysChallenge/13 Scrolling with pictures/index.html">Click here!</a>
 14. This exercise shows the difference between reference and copy of array and object, and shows couple ways of copying them. <a href="https://igorkix.github.io/javaScript30DaysChallenge/14 Copy of array and object/index.html">Click here!</a>
+15. In this exercise by the using the local storage, we store the newly added names of dishes. In addition, the picture illustrating the selection of the dishes has been changed. <a href="https://igorkix.github.io/javaScript30DaysChallenge/15 local storage/index.html">Click here!</a>
 
 
 

@@ -20,6 +20,7 @@ The author of this course is Wes Bos. The idea of this "challenge" is to get to 
 14. This exercise shows the difference between reference and copy of array and object, and shows couple ways of copying them. <a href="https://igorkix.github.io/javaScript30DaysChallenge/14 Copy of array and object/index.html">Click here!</a>
 15. In this exercise by the using the local storage, we store the newly added names of dishes. In addition, the picture illustrating the selection of the dishes has been changed. <a href="https://igorkix.github.io/javaScript30DaysChallenge/15 local storage/index.html">Click here!</a>
 16. This time I makes a simple but extremely satisfying effect of many-colored shadows around the inscription, which are moving by the movement of the mouse. <a href="https://igorkix.github.io/javaScript30DaysChallenge/16 Text shadow/index.html">Click here!</a>
+18. This task was to sort the list alphabetically, omitting "the", "a", "an" at the beginning of the music bands names. <a href="https://igorkix.github.io/javaScript30DaysChallenge/17 Sorted array of music bands/index.html">Click here!</a>
 
 
 

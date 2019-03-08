@@ -22,8 +22,12 @@ The author of this course is Wes Bos. The idea of this "challenge" is to get to 
 16. This time I makes a simple but extremely satisfying effect of many-colored shadows around the inscription, which are moving by the movement of the mouse. <a href="https://igorkix.github.io/javaScript30DaysChallenge/16 Text shadow/index.html">Click here!</a>
 17. This task was to sort the list alphabetically, omitting "the", "a", "an" at the beginning of the music bands names. <a href="https://igorkix.github.io/javaScript30DaysChallenge/17 Sorted array of music bands/index.html">Click here!</a>
 18. In this exercise there is an example of a simple method is shown to sum the time given as a string <a href="https://igorkix.github.io/javaScript30DaysChallenge/18 Time counting/index.html">Click here!</a>
-19. This exercise shows the implementation of a fairly complex app that allows live previews of the connected webcam. In addition, it is possible to take screenshots and apply effects to the video. To run the application, you must have nodejs and npm installed. After downloading the files,  open the comand line in the folder with the files and enter npm install. When all necessary things are downloaded, enter the npm start which will result with launching the server and opening web browser on local host page.
+19. This exercise shows the implementation of a fairly complex app that allows live previews of the connected webcam. In addition, it is possible to take screenshots and apply effects to the video. To run the application, you must have nodejs and npm installed.***
+20. This task shows how to use the ability to transcribe speech into a letters. (unfortunately I have to spend more time to make this code work correctly)
 
 
 *I didn't add the click me button here because so far I'm not sure how to attach audio and video files so that they can be played <br />
-**I saw this fat bunny video so many times in different exercises, that I'm getting epilepsis attack after 0.1 second of watching it...
+
+**I saw this fat bunny video so many times in different exercises, that I'm getting epilepsis attack after 0.1 second of watching it... <br />
+
+***After downloading the files, open the comand line in the folder with the files and enter npm install. When all necessary things are downloaded, enter the npm start which will result with launching the server and opening web browser on local host page.

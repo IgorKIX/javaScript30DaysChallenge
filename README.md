@@ -25,6 +25,7 @@ The author of this course is Wes Bos. The idea of this "challenge" is to get to 
 19. This exercise shows the implementation of a fairly complex app that allows live previews of the connected webcam. In addition, it is possible to take screenshots and apply effects to the video. To run the application, you must have nodejs and npm installed.***
 20. This task shows how to use the ability to transcribe speech into a letters. (unfortunately I have to spend more time to make this code work correctly). ***
 21. A simple application showing the speed of movement and the geographical direction of the march. Unfortunately, I could not test its operation :disappointed: ***
+22. In this exercise i shown a simple link highlighting effect is shown after hovering over it with mouse. The highlight effect "travels" from one link to another, while actively adapting its shape. <a href="https://igorkix.github.io/javaScript30DaysChallenge/22 Follow along links/index.html">Click here!</a>
 
 
 *I didn't add the click me button here because so far I'm not sure how to attach audio and video files so that they can be played <br />

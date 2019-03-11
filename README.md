@@ -26,10 +26,11 @@ The author of this course is Wes Bos. The idea of this "challenge" is to get to 
 20. This task shows how to use the ability to transcribe speech into a letters. (unfortunately I have to spend more time to make this code work correctly). ***
 21. A simple application showing the speed of movement and the geographical direction of the march. Unfortunately, I could not test its operation :disappointed: ***
 22. In this exercise i shown a simple link highlighting effect is shown after hovering over it with mouse. The highlight effect "travels" from one link to another, while actively adapting its shape. <a href="https://igorkix.github.io/javaScript30DaysChallenge/22 Follow along links/index.html">Click here!</a>
+23. In this exercise is shown the use of the api (SpeechSynthesisUtterance) built into the modern browser, allowing the reading of the typed text. The list of available voices depends on the operating system used and the browser used. Unfortunately it doesn't work on firefox :disappointed: <a href="https://igorkix.github.io/javaScript30DaysChallenge/23 Speech synth/index.html">Click here!</a>
 
 
 *I didn't add the click me button here because so far I'm not sure how to attach audio and video files so that they can be played <br />
 
 **I saw this fat bunny video so many times in different exercises, that I'm getting epilepsis attack after 0.1 second of watching it... <br />
 
-***After downloading the files, open the comand line in the folder with the files and enter npm install. When all necessary things are downloaded, enter the npm start which will result with launching the server and opening web browser on local host page.
+***After downloading the files, open the command line in the folder with the files and enter npm install. When all necessary things are downloaded, enter the npm start which will result with launching the server and opening web browser on local host page.

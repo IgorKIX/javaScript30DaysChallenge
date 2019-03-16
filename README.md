@@ -30,6 +30,7 @@ The author of this course is Wes Bos. The idea of this "challenge" is to get to 
 24. In this exercise is shown a useful trick to make nav move with the user when he scrolls down the page. <a href="https://igorkix.github.io/javaScript30DaysChallenge/24 Moving nav/index.html">Click here!</a>
 25. this lesson are shown event propagation (bubbling events up in nested objects) and the use of options objects in event listeners (capture and once) <a href="https://igorkix.github.io/javaScript30DaysChallenge/25 Event propagation/index.html">Click here!</a>
 26. This tutorial showed the implementation of a rather complicated but very spectacular drop-down nav. <a href="https://igorkix.github.io/javaScript30DaysChallenge/26 Stripe nav/index.html">Click here!</a>
+27. This tutorial shows what the implementation of the sliding list might look like. The user has the option of moving the list by clicking and moving the mouse. <a href="https://igorkix.github.io/javaScript30DaysChallenge/27 Click and drag/index.html">Click here!</a>
 
 
 *I didn't add the click me button here because so far I'm not sure how to attach audio and video files so that they can be played <br />

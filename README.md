@@ -28,6 +28,7 @@ The author of this course is Wes Bos. The idea of this "challenge" is to get to 
 22. In this exercise i shown a simple link highlighting effect is shown after hovering over it with mouse. The highlight effect "travels" from one link to another, while actively adapting its shape. <a href="https://igorkix.github.io/javaScript30DaysChallenge/22 Follow along links/index.html">Click here!</a>
 23. In this exercise is shown the use of the api (SpeechSynthesisUtterance) built into the modern browser, allowing the reading of the typed text. The list of available voices depends on the operating system used and the browser used. Unfortunately it doesn't work on firefox :disappointed: <a href="https://igorkix.github.io/javaScript30DaysChallenge/23 Speech synth/index.html">Click here!</a>
 24. In this exercise is shown a useful trick to make nav move with the user when he scrolls down the page. <a href="https://igorkix.github.io/javaScript30DaysChallenge/24 Moving nav/index.html">Click here!</a>
+25. this lesson are shown event propagation (bubbling events up in nested objects) and the use of options objects in event listeners (capture and once) <a href="https://igorkix.github.io/javaScript30DaysChallenge/25 Event propagation/index.html">Click here!</a>
 
 
 *I didn't add the click me button here because so far I'm not sure how to attach audio and video files so that they can be played <br />

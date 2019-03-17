@@ -31,10 +31,11 @@ The author of this course is Wes Bos. The idea of this "challenge" is to get to 
 25. this lesson are shown event propagation (bubbling events up in nested objects) and the use of options objects in event listeners (capture and once) <a href="https://igorkix.github.io/javaScript30DaysChallenge/25 Event propagation/index.html">Click here!</a>
 26. This tutorial showed the implementation of a rather complicated but very spectacular drop-down nav. <a href="https://igorkix.github.io/javaScript30DaysChallenge/26 Stripe nav/index.html">Click here!</a>
 27. This tutorial shows what the implementation of the sliding list might look like. The user has the option of moving the list by clicking and moving the mouse. <a href="https://igorkix.github.io/javaScript30DaysChallenge/27 Click and drag/index.html">Click here!</a>
+28. In this task, we showed how to place a bar on the page, which changes when a mouse passes over it **  <a href="https://igorkix.github.io/javaScript30DaysChallenge/28 Speed controller/index.html">Click here!</a>
 
 
-*I didn't add the click me button here because so far I'm not sure how to attach audio and video files so that they can be played <br />
+#####*I didn't add the click me button here because so far I'm not sure how to attach audio and video files so that they can be played <br />
 
-**I saw this fat bunny video so many times in different exercises, that I'm getting epilepsis attack after 0.1 second of watching it... <br />
+#####**I saw this fat bunny video so many times in different exercises, that I'm getting epilepsis attack after 0.1 second of watching it... <br />
 
-***After downloading the files, open the command line in the folder with the files and enter npm install. When all necessary things are downloaded, enter the npm start which will result with launching the server and opening web browser on local host page.
+#####***After downloading the files, open the command line in the folder with the files and enter npm install. When all necessary things are downloaded, enter the npm start which will result with launching the server and opening web browser on local host page.

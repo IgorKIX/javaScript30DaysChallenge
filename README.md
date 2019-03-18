@@ -32,6 +32,7 @@ The author of this course is Wes Bos. The idea of this "challenge" is to get to 
 26. This tutorial showed the implementation of a rather complicated but very spectacular drop-down nav. <a href="https://igorkix.github.io/javaScript30DaysChallenge/26 Stripe nav/index.html">Click here!</a>
 27. This tutorial shows what the implementation of the sliding list might look like. The user has the option of moving the list by clicking and moving the mouse. <a href="https://igorkix.github.io/javaScript30DaysChallenge/27 Click and drag/index.html">Click here!</a>
 28. In this task, we showed how to place a bar on the page, which changes when a mouse passes over it **  <a href="https://igorkix.github.io/javaScript30DaysChallenge/28 Speed controller/index.html">Click here!</a>
+29. This time the tutorial shows how to make a timer. To calculate the remaining time  by a set interval, which allows for proper display and calculation of the remaining time.
 
 
 #####*I didn't add the click me button here because so far I'm not sure how to attach audio and video files so that they can be played <br />
